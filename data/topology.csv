@@ -1,0 +1,19 @@
+olt_id,city,region,lat,lon,pon_ports,onus_per_port
+OLT-001,Alpha City,North,-22.8916,-47.0885,16,48
+OLT-002,Alpha City,North,-22.9135,-47.0766,16,48
+OLT-003,Alpha City,North,-22.8858,-47.0494,16,48
+OLT-004,Beta Town,North,-22.7265,-47.1748,16,48
+OLT-005,Beta Town,North,-22.7547,-47.1782,16,48
+OLT-006,Beta Town,North,-22.7669,-47.1497,16,48
+OLT-007,Gamma Ville,North,-22.8484,-46.9681,16,48
+OLT-008,Gamma Ville,North,-22.811,-46.9473,16,48
+OLT-009,Gamma Ville,North,-22.8368,-46.9446,16,48
+OLT-010,Delta Port,South,-23.5314,-46.6596,16,48
+OLT-011,Delta Port,South,-23.5317,-46.6181,16,48
+OLT-012,Delta Port,South,-23.5596,-46.6507,16,48
+OLT-013,Epsilon Bay,South,-23.6426,-46.5498,16,48
+OLT-014,Epsilon Bay,South,-23.6944,-46.5642,16,48
+OLT-015,Epsilon Bay,South,-23.6492,-46.5338,16,48
+OLT-016,Zeta Falls,South,-23.4616,-46.8362,16,48
+OLT-017,Zeta Falls,South,-23.4778,-46.8216,16,48
+OLT-018,Zeta Falls,South,-23.4873,-46.8469,16,48
